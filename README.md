@@ -57,7 +57,7 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **Nature Bloom Foods** | *(Write 1 real sentence: what problem it solves, what stack, what you personally built)* | [Code](https://github.com/gana99k/Nature-Bloom-Foods) · [Live Demo](https://gsr-naturebloomfoods.bytexl.live/) |
+| **Nature Bloom Foods** | natural food products  | [Code](https://github.com/gana99k/Nature-Bloom-Foods) · [Live Demo](https://gsr-naturebloomfoods.bytexl.live/) |
 | *Project 2 — TBD* | Add once built | — |
 | *Project 3 — TBD* | Add once built | — |
 
