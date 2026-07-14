@@ -35,16 +35,13 @@
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
+
+**Tools**4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -58,8 +55,8 @@
 | Project | Description | Links |
 |---|---|---|
 | **Nature Bloom Foods** | natural food products  | [Code](https://github.com/gana99k/Nature-Bloom-Foods) · [Live Demo](https://gsr-naturebloomfoods.bytexl.live/) |
-| *Project 2 — TBD* | Add once built | — |
-| *Project 3 — TBD* | Add once built | — |
+| **SKY-SEARCH** | FLIGHTS SEARCH| [Code](https://github.com/gana99k/SKY-SEARCH) . [Live Demo](https://gana99k.github.io/SKY-SEARCH/)|
+
 
 ---
 
